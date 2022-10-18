@@ -5,7 +5,7 @@
 *There isn't really any the event that will be executed is customizable.*
 
 ## Why LENT-Clothing?
-*I had noticed that some objects can't be targeted. This will just check the players location take a margin of 20studs and give them the clothing options. What I mean by can't be targeted is actually relitivly simple. You could create a zone but no matter what you tried the eye would never work on it as if it wasn't a targatable object. This helps prevent that and still allows the user to have clothing locations everywhere.*
+*I had noticed that some objects can't be targeted. This will just check the players location take a margin of 20studs and give them the clothing options. What I mean by can't be targeted is actually relatively simple. You could create a zone but no matter what you tried the eye would never work on it as if it wasn't a targetable object. This helps prevent that and still allows the user to have clothing locations everywhere.*
 
 ## How To install
 - Drag and Drop the `LENT-Clothing` resource in your resources folder
